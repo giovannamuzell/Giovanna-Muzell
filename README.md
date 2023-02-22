@@ -4,5 +4,5 @@
 * Estudante de Análise de Desenvolvimento de Sistema, UMC.
 * Cursando na linguagem de Java. 
 
-ENV["CAMO_HOST"] = "https://camo.herokuapp.com"
-ENV["CAMO_KEY"] = "rzsJbU5YxDfdP3FXHjshtgEN"
+http://example.org/<digest>?url=<image-url>
+http://example.org/<digest>/<image-url>
